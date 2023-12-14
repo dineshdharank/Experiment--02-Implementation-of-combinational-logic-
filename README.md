@@ -1,9 +1,9 @@
-#Name:Dineshdharan.k
+## Name:Dineshdharan.k
 
 
-#Reg:23014095
+## Reg:23014095
 
-# Experiment--02-Implementation-of-combinational-logic
+## Experiment--02-Implementation-of-combinational-logic
 Implementation of combinational logic gates
  
 ## AIM:
