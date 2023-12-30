@@ -1,10 +1,7 @@
 ## Name:Dineshdharan.k
-
-
 ## Reg:23014095
 
-## Experiment--02-Implementation-of-combinational-logic
-Implementation of combinational logic gates
+## Experiment 02 Implementation of combinational logic
  
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -24,21 +21,23 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 ## Program:
 
-![Screenshot 2023-12-14 180032](https://github.com/dineshdharank/Experiment--02-Implementation-of-combinational-logic-/assets/145980096/7c5983b9-e241-42a0-a5e1-5804ceb0eb4f)
+![Screenshot 2023-12-15 142657](https://github.com/dineshdharank/Experiment--02-Implementation-of-combinational-logic-/assets/145980096/c6ea2453-d191-4082-acc8-0d948fa1d94c)
+
 
 ## RTL
 
-![Screenshot 2023-12-14 175950](https://github.com/dineshdharank/Experiment--02-Implementation-of-combinational-logic-/assets/145980096/2cbe0045-742a-4ae8-9116-aad08853c643)
+![Screenshot 2023-12-15 142714](https://github.com/dineshdharank/Experiment--02-Implementation-of-combinational-logic-/assets/145980096/3ee95b09-afc8-4a4f-a464-91f6882ab4ea)
 
 
 ## Timing Diagram
 
-![Screenshot 2023-12-14 180251](https://github.com/dineshdharank/Experiment--02-Implementation-of-combinational-logic-/assets/145980096/a396c1f6-dcf3-4643-b812-4037dff54257)
+![Screenshot 2023-12-15 143040](https://github.com/dineshdharank/Experiment--02-Implementation-of-combinational-logic-/assets/145980096/9bab66c0-8c4e-49bc-afdd-2006900c41a6)
+
 
 
 ## Truth table
 
-![Screenshot 2023-12-14 180402](https://github.com/dineshdharank/Experiment--02-Implementation-of-combinational-logic-/assets/145980096/c918dc35-fe54-44d2-a46a-34cb932f7461)
+![Screenshot 2023-12-15 143016](https://github.com/dineshdharank/Experiment--02-Implementation-of-combinational-logic-/assets/145980096/62f96063-1fdb-48ca-8d1f-9d8a7e121699)
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
